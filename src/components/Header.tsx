@@ -1,5 +1,5 @@
 import { AppBar, Toolbar, Typography } from '@mui/material'
-import React, { CSSProperties } from 'react'
+import { CSSProperties } from 'react'
 import { Link } from 'react-router-dom'
 
 const style:CSSProperties = {
